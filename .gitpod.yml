@@ -1,5 +1,5 @@
 image:
-  file: .gitpod/.gitpod.dockerfile
+  file: .gitpod/.gitpod.Dockerfile
 ports:
   - port: 4000
     onOpen: open-preview 
